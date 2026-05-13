@@ -22,4 +22,4 @@ In order to run this program, this code requires an operating system capable of 
 
 ## Licence
 
-Comparison is licensed under the [**GNU General Public Licence v3.0**](LICENSE).
+Comparison is licensed under the [**GNU General Public License v3.0**](LICENSE).
