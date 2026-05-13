@@ -2,15 +2,11 @@
 
 ## Description
 
-Comparison creates three random numbers using
+Comparison creates three random numbers using `randint();` and arranges them into 3 variables:
 
-    randint();
-
-and arranges them into
-
-    smallest,
-    middle,
-    highest.
+    smallest
+    middle
+    highest
 
 then prints those values in order:
 
@@ -19,6 +15,10 @@ then prints those values in order:
     print(middle)
 
     print(smallest)
+
+## Requirements
+
+In order to run this program, this code requires an operating system capable of running and compiling Python code as well as a console to view the printed numbers.
 
 ## Licence
 
